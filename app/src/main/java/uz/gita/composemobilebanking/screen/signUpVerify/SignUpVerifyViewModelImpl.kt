@@ -1,0 +1,3 @@
+package uz.gita.composemobilebanking.screen.signUpVerify
+
+class SignUpVerifyViewModelImpl : SignUpVerifyViewModel
